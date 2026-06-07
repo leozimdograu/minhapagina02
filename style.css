@@ -66,8 +66,10 @@ text-align: center;
 padding: 24px 0;
 }
 .estudantes_todos{
-display: flex;
-justify-content: space-around;
+display: grid;
+grid-template-columns: repeat(5, 1fr);
+gap: 20px;
+justify-items: center;
 }
 .escola{
 background-image: linear-gradient(#40A2E3,#7FC2EF);
