@@ -26,11 +26,10 @@ justify-content: flex-start;
 align-items: center;
 }
 
-img_foto{
-    width: 20px;
-    height: auto;
+img_foto.{
+    width: 80px;
 
-
+}
 .titulo_site{
 padding: 50px;
 text-align: center;
