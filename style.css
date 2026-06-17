@@ -19,7 +19,7 @@ justify-content: center;
 }
 .img_foto{
 width: 30%;
-height: 30;
+height: 30%;
 display: flex;
 justify-content: flex-start;
 align-items: center;
