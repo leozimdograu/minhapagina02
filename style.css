@@ -28,7 +28,7 @@ padding: 80px;
 
 
 .titulo_site{
-  font-size: 70px;
+  font-size: 80px;
 padding: 50px;
 text-align: center;
 width: 50%;
@@ -45,8 +45,8 @@ padding-left: 100px;
 .sociais{
 display:  inline-block;
 background: white;
-padding: 10px 20px;
-border-radius: 20px;
+padding: 30px 40px;
+border-radius: 40px;
 color: black;
 font-weight: bold;
 }
