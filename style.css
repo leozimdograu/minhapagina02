@@ -39,8 +39,7 @@ font-size: 50px;
 .sociais{
 display: flex;
 justify-content: flex-end;
-width: 550px;
-padding-left: 100px;
+
 }
 .sociais{
   font-size: 25px;
