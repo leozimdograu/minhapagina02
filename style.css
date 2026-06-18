@@ -41,7 +41,7 @@ display: flex;
 justify-content: flex-end;
 
 }
-.sociais{
+.sociais p{
   font-size: 25px;
 display:  inline-block;
 background: white;
