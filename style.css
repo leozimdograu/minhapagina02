@@ -41,7 +41,6 @@ justify-content: flex-end;
 width: 25%;
 padding-left: 100px;
 }
-
 .sociais{
 display: inline-block;
 background: white;
@@ -51,7 +50,6 @@ color: black;
 font-weight: bold;
 font-size: 24px;
 }
-font-weight: bold;
 .banner1{
 display: flex;
 justify-content: center;
