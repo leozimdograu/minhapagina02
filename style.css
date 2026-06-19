@@ -66,9 +66,11 @@ text-align: center;
 .estudante-imagem{
 width: 120px;
 }
-.estudante-icone{
-width: 38px;
-padding: 4px 8px;
+.estudante-imagem{
+width: 150px;
+height: 150px;
+object-fit: cover;
+border-radius: 50%;
 }
 .estudante{
 background-color: #1591dc;
