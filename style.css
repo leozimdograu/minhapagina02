@@ -66,6 +66,10 @@ text-align: center;
 .estudante-imagem{
 width: 120px;
 }
+
+.estudante{
+background-color: #1591dc;
+}
 .estudante-imagem{
 width: 150px;
 height: 150px;
@@ -73,10 +77,6 @@ object-fit: cover;
 border-radius: 0px;
 border: 3px solid rgb(37, 182, 37);
 }
-.estudante{
-background-color: #1591dc;
-}
-
 .estudante-div{
 text-align: center;
 width: 180px;
