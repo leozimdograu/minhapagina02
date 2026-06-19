@@ -80,10 +80,10 @@ background-color: #1591dc;
 .estudante-div{
 text-align: center;
 width: 180px;
-background: white;
+background: yellow;
+border: 4px solid black;
 border-radius: 20px;
 padding: 15px;
-box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 .estudantes_todos{
 display: grid;
