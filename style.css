@@ -100,6 +100,41 @@ grid-template-columns: repeat(5, 1fr);
 gap: 20px;
 justify-items: center;
 }
+
+.instrumentos{
+background-color: #0f172a;
+text-align: center;
+padding: 50px;
+}
+
+.texto-instrumentos{
+color: white;
+margin-bottom: 30px;
+font-size: 18px;
+}
+
+.instrumentos-todos{
+display: flex;
+justify-content: center;
+gap: 50px;
+}
+
+.instrumento img{
+width: 250px;
+border: 3px solid #d4af37;
+border-radius: 15px;
+transition: 0.3s;
+}
+
+.instrumento img:hover{
+transform: scale(1.05);
+}
+
+.instrumento h3{
+color: white;
+margin-top: 10px;
+}
+
 .escola{
 background-image: linear-gradient(#40A2E3,#7FC2EF);
 color: white;
