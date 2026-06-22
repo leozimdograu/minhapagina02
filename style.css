@@ -44,10 +44,11 @@ padding-left: 100px;
 .sociais{
 display: inline-block;
 width: 450px;
-background: white;
+background: #1e393b;
 padding: 10px 20px;
 border-radius: 20px;
-color: black;
+border: #2px solid #d4af37;
+color: white;
 font-weight: bold;
 font-size: 18px;
 }
@@ -62,6 +63,7 @@ text-align: center;
 }
 .estudante-nome{
 text-align: center;
+color: white;
 }
 .estudante-imagem{
 width: 120px;
