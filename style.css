@@ -52,9 +52,10 @@ color: white;
 font-weight: bold;
 font-size: 18px;
 }
-.banner1{
-display: flex;
-justify-content: center;
+.banner1 img{
+width: 100%;
+height: auto;
+display: block;
 }
 .estudante_titulo{
 padding: 50px;
