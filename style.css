@@ -144,4 +144,7 @@ height: 150px;
 padding: 50px;
 text-align: center;
 }
-
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: #0f172a;
+}
