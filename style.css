@@ -136,13 +136,10 @@ margin-top: 10px;
 }
 
 .escola{
-background-image: linear-gradient #d4af37;
+background: linear-gradient(to right, #d4af37, #b8860b);
 color: white;
-display: flex;
-justify-content:center;
 padding: 24px 0;
-text-align:center;
-display:block;
+text-align: center;
 }
 .escola-titulo{
 padding: 50px;
