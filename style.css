@@ -136,8 +136,8 @@ margin-top: 10px;
 }
 
 .escola{
-background-color: #d4af37;
-height: 150px;
+background: linear-gradient(to right, #b8860b, #d4af37, #ffd700);
+height: 120px;
 }
 
 .escola-titulo{
