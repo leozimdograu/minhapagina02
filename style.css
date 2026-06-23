@@ -21,9 +21,13 @@ padding: 0 20px;
 }
 
 
-.img_foto {
-width: 400px;   
-height: auto;   
+.img_foto{
+width: 350px;
+height: 350px;
+object-fit: cover;
+border-radius: 25px;
+border: 4px solid #d4af37;
+box-shadow: 0 0 15px rgba(212,175,55,0.5);
 }
 
 
