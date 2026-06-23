@@ -32,6 +32,7 @@ box-shadow: 0 0 15px rgba(212,175,55,0.5);
 
 
 .titulo_site{
+color:#d4af37;
 padding: 50px;
 text-align: center;
 width: 50%;
@@ -135,7 +136,7 @@ transform: scale(1.05);
 }
 
 .instrumento h3{
-color: white;
+color: #d4af37;
 margin-top: 10px;
 }
 
