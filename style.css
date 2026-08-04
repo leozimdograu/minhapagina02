@@ -148,6 +148,10 @@ color: #333333;
 text-align: center;
 margin-bottom: 15px;
 }
+.container-video{
+text-align: center;
+margin-top: 40px;
+}
 
 .escola{
 background: linear-gradient(to right, #b8860b, #d4af37, #ffd700);
