@@ -166,3 +166,10 @@ body{
 font-family: "Poppins", sans-serif;
 background: linear-gradient(to right, #b8860b, #d4af37, #ffd700);
 }
+
+.instrumentos
+ul {
+  list-style-type: none;
+  margin: 0 auto;
+  padding:50px;
+}
